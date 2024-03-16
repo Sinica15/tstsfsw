@@ -1,3 +1,5 @@
+import "./App.scss";
+
 import icon from "./assets/logo.svg";
 import earthImg from "./assets/earth-3d.png";
 import orbitsImg from "./assets/orbits.svg";
